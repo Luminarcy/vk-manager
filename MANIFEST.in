@@ -1,0 +1,3 @@
+graft flaskr/templates
+graft flaskr/reports
+global-exclude *.pyc
